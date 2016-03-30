@@ -28,6 +28,7 @@ public class MyResource {
     @Produces(MediaType.TEXT_PLAIN)
     public String test(){
     	System.out.println(" tet methosd");
+    	System.out.println("this for testing");
     	return "test string";
     }
 }
