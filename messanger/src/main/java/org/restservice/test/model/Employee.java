@@ -8,6 +8,7 @@ public class Employee {
 	private long empId;
 	private String empName;
 	private String email;
+	private String test;
 	
 	public long getEmpId() {  
 		return empId;
